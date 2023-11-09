@@ -1,4 +1,3 @@
-# Exercise 5.2—Materials
 
 Exercise for MSCH-C220
 
